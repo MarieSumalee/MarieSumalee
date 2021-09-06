@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarieSumalee
 - 👀 I’m interested in the new technologies 
-- 🌱 I’m a front end developer, I like learning vue, react js, next js, Laravel and want to learn more about JAMSTACK
+- 🌱 I’m a front end developer, I like learning vue, react js, next js, Laravel and want to learn more about JAMStack
 - 🧢  I like to stay busy and keep on learning new stuff
 - 💞️ I’m looking to collaborate on GitHub 
 - 📫 Reach me here at my webwite 
