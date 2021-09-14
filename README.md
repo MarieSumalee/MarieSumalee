@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarieSumalee
-- 👀 I’m interested in the new technologies 
+- 👀 I’m interested in modern web app technologies 
 - 🌱 I’m a front end developer, and I think JAMstack is awesome!
 - 🧢  I like to stay busy and keep on learning new stuff
 - 💞️ I’m looking to collaborate on GitHub 
