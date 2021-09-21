@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarieSumalee, 
+- 👋 Hi, I’m @MarieSumalee & I'm a freelancer!
 - 👀 I’m interested in new trends web both frontend and backend technologies 
 - 🌱 I'm a web developer focusing on frontend development
 - 😍 I think JAMstack is awesome!
@@ -7,8 +7,7 @@
 - 🤩 Stackpit is also amazing!
 - 💪  GrapQL is a powerful tool!
 - 😮  Wow, I discovered Prisma is awesome & powerful tool too!
-- 🧢  I like to stay busy and keep on learning new stuff
-- 💞️ I’m looking to collaborate on GitHub 
+- 🧢  I like to stay busy and keep on learning new stuff, anything that is practicle, susbtantials, and less complicated 
 - 📫 Reach me here at my webwite 
 
 <!---
