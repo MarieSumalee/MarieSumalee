@@ -6,7 +6,7 @@
 - 🥇 Gatsby is far out!
 - 🤩 Stackpit is also amazing!
 - 💪  GrapQL is a powerful tool!
-- 😮  Wow, I discovered Prisma is also awesome & powerful!
+- 😮  But Wow..I have just discovered Prisma!
 - 🧢  I like to stay busy and keep on learning new stuff.. anything that is practicle, susbtantials, and less complicated 
 - 📫 Reach me here at my webwite
 
