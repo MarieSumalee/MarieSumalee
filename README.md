@@ -4,7 +4,7 @@
 - 😍 I think JAMstack is awesome!
 - 👍🏼 Hugo I like best!
 - 🥇 Gatsby is far out!
-- 🤩 Stackpit is also amazing!
+- 🤩 Stackbit and Stack blitz are also amazing!
 - 💪  GrapQL is a powerful tool!
 - 😮  Oh Wow..I have just discovered Prisma!
 - 🧢  I like to stay busy and keep on learning new stuff.. anything that is practicle, susbtantials, and less complicated 
