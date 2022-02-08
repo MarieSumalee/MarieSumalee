@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarieSumalee
-- 🌱 I'm a web developer & freelancer focusing on frontend development
+- 🌱 I'm a web developer, freelancer focusing on frontend development and also a part-time educator
 - 👀 I’m interested in new trends web both frontend and backend technologies 
 - 😍 I think JAMstack is awesome!
 - 👍🏼 Hugo I like best!
