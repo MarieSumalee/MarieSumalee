@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @MarieSumalee
-- 🌱 I'm a junior frontend & web developer
-- 👀 I’m interested in new trends web both frontend and backend technologies 
-- 😍 I think JAMstack is awesome!
+- 🌱 I'm a junior frontend & web developer using HTML,Css JavaScript & Bootstrap framework.
+- 👀 I’m interested in new trends web both frontend and backend technologies. 
+- 😍 I think JavaScript, API, Markup (JAMstack) is awesome!
 - 👍🏼 Java I like best!
 - 🥇 Phythorn is far out!
-- 🧢  I like to stay busy and keep on learning new stuff.. anything that is practicle, susbtantials, and less complicated 
+- 🧢  I like to stay busy and keep on learning new stuff, anything that is practicle, susbtantials, and less complicated 
 - 📫 Reach me here at my webwite
 <!---
 MarieSumalee/MarieSumalee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
