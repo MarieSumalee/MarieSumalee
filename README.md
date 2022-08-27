@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarieSumalee
-- 🌱 I'm a junior frontend & web developer using HTML,Css JavaScript & Bootstrap framework.
+- 🌱 I'm a junior frontend & web developer using HTML,Css, JavaScript & Bootstrap framework.
 - 👀 I’m interested in new trends web both frontend and backend technologies. 
 - 😍 I think JavaScript, API, Markup (JAMstack) is awesome!
 - 👍🏼 Java I like best!
