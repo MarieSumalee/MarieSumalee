@@ -3,7 +3,7 @@
 - 👀 I’m interested in new trends web both frontend and backend technologies. 
 - 😍 I think JavaScript, API, Markup (JAMstack) is awesome!
 - 👍🏼 Java I like best!
-- 🥇 Phythorn is far out!
+- 🥇 Python is far out!
 - 🧢  I like to stay busy and keep on learning new stuff, anything that is practicle, susbtantials, and less complicated 
 - 📫 Reach me here at my webwite
 <!---
