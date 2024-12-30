@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarieSumalee
+- 👋 Hi, I’m @MareeSumalee
 - 🌱 I'm a junior Processing Programmer & Frontend-Web developer 
 -   I'm using HTML,CSS, JavaScript & Bootstrap framework to build Website & Web-App.
 - 👀 I’m interested in new trends web both frontend and backend technologies. 
